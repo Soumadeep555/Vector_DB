@@ -1,0 +1,2 @@
+chromadb
+pinecone-client
