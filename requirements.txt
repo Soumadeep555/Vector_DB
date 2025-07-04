@@ -1,2 +1,6 @@
 chromadb
 pinecone-client
+pypdf
+langchain_pinecone
+pinecone
+
